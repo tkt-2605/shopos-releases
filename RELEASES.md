@@ -1,2 +1,3 @@
 - v0.1.2, built from c1f8acf18103
 - v0.2.1, built from 03da9c16040d
+- v0.2.2, built from 6d4c84276a9a
