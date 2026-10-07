@@ -4,3 +4,4 @@
 - v0.2.3, built from 678552c62856
 - v0.2.4, built from c032d423b9f9
 - v0.2.5, built from 0c83becfb9e8
+- v0.2.6, built from f641dedf5a4c
