@@ -8,3 +8,4 @@
 - v0.2.7, built from 94041bb280ab
 - v0.2.8, built from 34d175ea4408
 - v0.2.10, built from 6e2e25bf7be0
+- v0.2.11, built from 0ff982ff224e
