@@ -11,3 +11,4 @@
 - v0.2.11, built from 0ff982ff224e
 - v0.2.12, built from 7c540b578855
 - v0.2.13, built from b8f9af488b73
+- v0.2.14, built from df6c3d9388e9
