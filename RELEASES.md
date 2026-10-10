@@ -15,3 +15,4 @@
 - v0.2.15, built from a2fe9192793d
 - v0.2.16, built from 28e994f09495
 - v0.2.17, built from 310beb8c2050
+- v0.2.18, built from 6f2ff030b048
