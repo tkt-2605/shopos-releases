@@ -18,3 +18,4 @@
 - v0.2.18, built from 6f2ff030b048
 - v0.2.19, built from 7cba94cf02ef
 - v0.2.20, built from 074f24622a7c
+- v0.3.0, built from d9b592920e84
