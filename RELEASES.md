@@ -20,3 +20,4 @@
 - v0.2.20, built from 074f24622a7c
 - v0.3.0, built from d9b592920e84
 - v0.4.0, built from 694f5ea8ec73
+- v0.4.0, built from 3e09b2f093f6
