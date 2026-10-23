@@ -26,3 +26,4 @@
 - v0.4.3, built from 0ac42a635e60
 - v0.4.4, built from b5e7839335c8
 - v0.4.5, built from e95903b92d8e
+- v0.4.6, built from 90e57e8e4ae2
