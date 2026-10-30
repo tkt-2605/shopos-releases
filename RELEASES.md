@@ -29,3 +29,4 @@
 - v0.4.6, built from 90e57e8e4ae2
 - v0.4.7, built from 31f9bb66c57a
 - v0.5.0, built from bcc442faae6b
+- v0.4.8, built from ba3f0732d9d9
