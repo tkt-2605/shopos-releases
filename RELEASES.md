@@ -32,3 +32,4 @@
 - v0.4.8, built from ba3f0732d9d9
 - v0.4.9, built from fcbf59a82fb4
 - v0.7.0, built from 26657b150943
+- v0.8.0, built from 25775e6e9fe9
